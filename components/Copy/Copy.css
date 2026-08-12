@@ -1,0 +1,7 @@
+.line,
+.word {
+  display: inline-block;
+  will-change: transform;
+  overflow: visible;
+  
+}
