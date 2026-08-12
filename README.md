@@ -121,7 +121,7 @@ baobakery/
 
 ## Important links 🔗
 
-- **Live Demo:** [https://baobakery.vercel.app] (https://baobakery.vercel.app/)
+- **Live Demo:** [https://baobakery.vercel.app](https://baobakery.vercel.app/)
 - **Repository:** [https://github.com/freewindias/baobakery](https://github.com/freewindias/baobakery)
 - **Bao Bakery (Official):** [https://www.baobakery.ca/](https://www.baobakery.ca/)
 - **Instagram:** [https://www.instagram.com/baobakery/](https://www.instagram.com/baobakery/)
