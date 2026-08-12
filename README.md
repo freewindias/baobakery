@@ -8,7 +8,7 @@ Bao Bakery is a modern, visually stunning website for a bakery specializing in C
 
 ## Table of Contents 🧭
 
-- [Project Title & Badges](#bao-bakery-dumpling)
+- [Project Title](#bao-bakery-dumpling)
 - [Description](#description-📝)
 - [Table of Contents](#table-of-contents-🧭)
 - [Features](#features-✨)
